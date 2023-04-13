@@ -4,5 +4,5 @@
     </a>
     <br>
     <br>
-    <strong>The professional web development platform for creative agencies</strong>
+    <strong>Adlands Universal Digital Delivery Platform</strong>
 </p>
